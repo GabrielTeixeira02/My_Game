@@ -1,0 +1,23 @@
+
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(àŞŸÿÿÿÿÿ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(Ò™Éó
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(Á¡™Äüÿÿÿÿ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(€­íÇúÿÿÿÿ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(ˆ­€‰ıÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(ÚÆÆÿÿÿÿÿ
+N	java:S106;"9Replace this use of System.out or System.err by a logger.(ıÈÿÊ
+g
+java:S3457;"Q%n should be used in place of \n to produce the platform-specific line separator.(ıÈÿÊ
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(ƒÈ‹ƒÿÿÿÿÿ
+l
+java:S3457C"Q%n should be used in place of \n to produce the platform-specific line separator.(ƒÈ‹ƒÿÿÿÿÿ
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(šÎã”ùÿÿÿÿ
+l
+java:S3457E"Q%n should be used in place of \n to produce the platform-specific line separator.(šÎã”ùÿÿÿÿ
+k
+java:S1128"IRemove this unused import 'ObjtPersonagem.Personagem.AbstractPersonagem'.(„ ™¢øÿÿÿÿ8äÁæ±/
+N
+java:S4973"9Use the "equals" method if value comparison was intended.(“«ªl
+T
+java:S4973*"9Use the "equals" method if value comparison was intended.(™Ğ½®úÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÓòáÖ
