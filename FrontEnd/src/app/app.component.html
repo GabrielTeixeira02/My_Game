@@ -1,0 +1,7 @@
+<div *ngIf="!isAutenticado()" class="loginDiv">
+    <app-login-component></app-login-component>
+</div>
+
+<div class="container-fluid" *ngIf="isAutenticado()">
+    <menu-component></menu-component>
+</div>

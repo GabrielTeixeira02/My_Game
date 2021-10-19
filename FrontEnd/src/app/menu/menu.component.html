@@ -1,0 +1,15 @@
+<mat-toolbar >
+    <app-header class="w-100"></app-header>
+</mat-toolbar>
+
+<mat-sidenav-container>
+    <mat-sidenav mode="side" opened>
+        <lateral-component></lateral-component>
+    </mat-sidenav>
+
+    <mat-sidenav-content>
+        <div class="content mat-elevation-z4">
+            <router-outlet></router-outlet>    
+        </div>
+    </mat-sidenav-content>
+</mat-sidenav-container>
